@@ -18,10 +18,6 @@
             {
                 "_id": "Page1",
                 "isDefault": false
-            },
-            {
-                "_id": "Page2",
-                "isDefault": false
             }
         ],
         "policies": [
