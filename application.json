@@ -1,0 +1,50 @@
+[
+    {
+        "_id": "6364c1750cc6341100000002",
+        "name": "dallas",
+        "slug": "dallas",
+        "organizationId": "Org",
+        "isPublic": false,
+        "isMenu": false,
+        "publishedPages": [],
+        "createdAt": "2022-11-04T07:38:29.240Z",
+        "updatedAt": "2022-11-04T07:38:29.240Z",
+        "deleted": false,
+        "pages": [
+            {
+                "_id": "home",
+                "isDefault": true
+            }
+        ],
+        "policies": [
+            {
+                "permission": "makePublic:applications",
+                "groups": [],
+                "users": []
+            },
+            {
+                "permission": "read:applications",
+                "groups": [],
+                "users": []
+            },
+            {
+                "permission": "publish:applications",
+                "groups": [],
+                "users": []
+            },
+            {
+                "permission": "manage:applications",
+                "groups": [],
+                "users": []
+            }
+        ],
+        "gitApplicationMetadata": {
+            "browserSupportedRemoteUrl": "https://github.com/qaubraine/dallas",
+            "defaultApplicationId": "dallas",
+            "defaultBranchName": "main",
+            "isRepoPrivate": true,
+            "remoteUrl": "git@github.com:qaubraine/dallas.git",
+            "repoName": "dallas"
+        }
+    }
+]

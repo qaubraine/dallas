@@ -1,0 +1,113 @@
+{
+    "_id": "6364c1750cc6341100000003",
+    "applicationId": "dallas",
+    "slug": "home",
+    "unpublishedPage": {
+        "name": "home",
+        "layouts": [
+            {
+                "_id": "6364c1750cc6341100000004",
+                "viewMode": false,
+                "dsl": {
+                    "widgetName": "MainContainer",
+                    "backgroundColor": "none",
+                    "rightColumn": 966,
+                    "snapColumns": 64,
+                    "detachFromLayout": true,
+                    "widgetId": "0",
+                    "topRow": 0,
+                    "bottomRow": 370,
+                    "containerStyle": "none",
+                    "snapRows": 125,
+                    "parentRowSpace": 1,
+                    "type": "CANVAS_WIDGET",
+                    "canExtend": true,
+                    "version": 57,
+                    "minHeight": 1292,
+                    "parentColumnSpace": 1,
+                    "dynamicBindingPathList": [],
+                    "leftColumn": 0,
+                    "children": [
+                        {
+                            "isVisible": true,
+                            "label": "Label",
+                            "defaultCheckedState": true,
+                            "widgetName": "Checkbox1",
+                            "version": 1,
+                            "alignWidget": "LEFT",
+                            "isDisabled": false,
+                            "isRequired": false,
+                            "animateLoading": true,
+                            "classStyle": "",
+                            "type": "CHECKBOX_WIDGET",
+                            "hideCard": false,
+                            "displayName": "Checkbox",
+                            "key": "2sbmu03eb8",
+                            "iconSVG": "/static/media/icon.aaab032b.svg",
+                            "widgetId": "w7lfvulmp7",
+                            "renderMode": "CANVAS",
+                            "isLoading": false,
+                            "parentColumnSpace": 15.71875,
+                            "parentRowSpace": 10,
+                            "leftColumn": 6,
+                            "rightColumn": 26,
+                            "topRow": 19,
+                            "bottomRow": 23,
+                            "parentId": "0"
+                        },
+                        {
+                            "isVisible": true,
+                            "widgetName": "Cropper1",
+                            "version": 1,
+                            "animateLoading": true,
+                            "aspectRatio": {
+                                "x": 400,
+                                "y": 400
+                            },
+                            "imgSRC": "https://raw.githubusercontent.com/roadmanfong/react-cropper/master/example/img/child.jpg",
+                            "type": "CROPPER_WIDGET",
+                            "hideCard": false,
+                            "displayName": "Cropper",
+                            "key": "bx8iks75pq",
+                            "iconSVG": "/static/media/icon.5c440258.svg",
+                            "isCanvas": false,
+                            "widgetId": "2ofwagldae",
+                            "renderMode": "CANVAS",
+                            "isLoading": false,
+                            "parentColumnSpace": 15.71875,
+                            "parentRowSpace": 10,
+                            "leftColumn": 36,
+                            "rightColumn": 49,
+                            "topRow": 15,
+                            "bottomRow": 35,
+                            "parentId": "0"
+                        }
+                    ],
+                    "dynamicTriggerPathList": []
+                },
+                "widgetNames": [
+                    "MainContainer",
+                    "Checkbox1",
+                    "Cropper1"
+                ],
+                "deleted": false,
+                "policies": []
+            }
+        ]
+    },
+    "createdAt": "2022-11-04T07:38:29.241Z",
+    "updatedAt": "2022-11-04T07:38:29.241Z",
+    "deleted": false,
+    "policies": [
+        {
+            "permission": "read:pages",
+            "groups": [],
+            "users": []
+        },
+        {
+            "permission": "manage:pages",
+            "groups": [],
+            "users": []
+        }
+    ]
+}
