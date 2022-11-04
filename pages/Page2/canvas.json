@@ -1,0 +1,176 @@
+{
+    "_id": "6364c81d0cc6341100000007",
+    "applicationId": "dallas",
+    "slug": "Page2",
+    "unpublishedPage": {
+        "name": "Page2",
+        "layouts": [
+            {
+                "_id": "6364c81d0cc6341100000008",
+                "viewMode": false,
+                "dsl": {
+                    "widgetName": "MainContainer",
+                    "backgroundColor": "none",
+                    "rightColumn": 1224,
+                    "snapColumns": 64,
+                    "widgetId": "0",
+                    "topRow": 0,
+                    "bottomRow": 900,
+                    "parentRowSpace": 1,
+                    "type": "CANVAS_WIDGET",
+                    "detachFromLayout": true,
+                    "minHeight": 910,
+                    "dynamicBindingPathList": [],
+                    "parentColumnSpace": 1,
+                    "leftColumn": 0,
+                    "children": [
+                        {
+                            "isVisible": true,
+                            "isDisabled": false,
+                            "datePickerType": "DATE_PICKER",
+                            "label": "Label",
+                            "labelPosition": "Left",
+                            "labelAlignment": "left",
+                            "labelWidth": 5,
+                            "dateFormat": "YYYY-MM-DD HH:mm",
+                            "widgetName": "DatePicker1",
+                            "defaultDate": "2022-11-04T07:38:26.966Z",
+                            "minDate": "1920-12-31T18:30:00.000Z",
+                            "maxDate": "2121-12-31T18:29:00.000Z",
+                            "version": 2,
+                            "isRequired": false,
+                            "closeOnSelection": true,
+                            "shortcuts": false,
+                            "firstDayOfWeek": 0,
+                            "timePrecision": "minute",
+                            "animateLoading": true,
+                            "classStyle": "",
+                            "type": "DATE_PICKER_WIDGET2",
+                            "hideCard": false,
+                            "displayName": "DatePicker",
+                            "key": "xe95grvpyg",
+                            "iconSVG": "/static/media/icon.300e5ab8.svg",
+                            "widgetId": "0lsc7pht03",
+                            "renderMode": "CANVAS",
+                            "isLoading": false,
+                            "parentColumnSpace": 15.71875,
+                            "parentRowSpace": 10,
+                            "leftColumn": 8,
+                            "rightColumn": 28,
+                            "topRow": 41,
+                            "bottomRow": 45,
+                            "parentId": "0"
+                        }
+                    ],
+                    "snapRows": 90,
+                    "containerStyle": "none",
+                    "canExtend": true,
+                    "version": 57
+                },
+                "widgetNames": [
+                    "MainContainer",
+                    "DatePicker1"
+                ],
+                "deleted": false,
+                "policies": [],
+                "layoutOnLoadActions": [],
+                "layoutOnCloseActions": []
+            }
+        ]
+    },
+    "createdAt": "2022-11-04T08:06:53.533Z",
+    "updatedAt": "2022-11-04T08:06:53.533Z",
+    "deleted": false,
+    "policies": [
+        {
+            "permission": "read:pages",
+            "groups": [],
+            "users": [
+                null
+            ]
+        },
+        {
+            "permission": "manage:pages",
+            "groups": [],
+            "users": [
+                null
+            ]
+        }
+    ],
+    "publishedPages": {
+        "name": "Page2",
+        "layouts": [
+            {
+                "_id": "6364c81d0cc6341100000008",
+                "viewMode": false,
+                "dsl": {
+                    "widgetName": "MainContainer",
+                    "backgroundColor": "none",
+                    "rightColumn": 1224,
+                    "snapColumns": 64,
+                    "widgetId": "0",
+                    "topRow": 0,
+                    "bottomRow": 900,
+                    "parentRowSpace": 1,
+                    "type": "CANVAS_WIDGET",
+                    "detachFromLayout": true,
+                    "minHeight": 910,
+                    "dynamicBindingPathList": [],
+                    "parentColumnSpace": 1,
+                    "leftColumn": 0,
+                    "children": [
+                        {
+                            "isVisible": true,
+                            "isDisabled": false,
+                            "datePickerType": "DATE_PICKER",
+                            "label": "Label",
+                            "labelPosition": "Left",
+                            "labelAlignment": "left",
+                            "labelWidth": 5,
+                            "dateFormat": "YYYY-MM-DD HH:mm",
+                            "widgetName": "DatePicker1",
+                            "defaultDate": "2022-11-04T07:38:26.966Z",
+                            "minDate": "1920-12-31T18:30:00.000Z",
+                            "maxDate": "2121-12-31T18:29:00.000Z",
+                            "version": 2,
+                            "isRequired": false,
+                            "closeOnSelection": true,
+                            "shortcuts": false,
+                            "firstDayOfWeek": 0,
+                            "timePrecision": "minute",
+                            "animateLoading": true,
+                            "classStyle": "",
+                            "type": "DATE_PICKER_WIDGET2",
+                            "hideCard": false,
+                            "displayName": "DatePicker",
+                            "key": "xe95grvpyg",
+                            "iconSVG": "/static/media/icon.300e5ab8.svg",
+                            "widgetId": "0lsc7pht03",
+                            "renderMode": "CANVAS",
+                            "isLoading": false,
+                            "parentColumnSpace": 15.71875,
+                            "parentRowSpace": 10,
+                            "leftColumn": 8,
+                            "rightColumn": 28,
+                            "topRow": 41,
+                            "bottomRow": 45,
+                            "parentId": "0"
+                        }
+                    ],
+                    "snapRows": 90,
+                    "containerStyle": "none",
+                    "canExtend": true,
+                    "version": 57
+                },
+                "widgetNames": [
+                    "MainContainer",
+                    "DatePicker1"
+                ],
+                "deleted": false,
+                "policies": [],
+                "layoutOnLoadActions": [],
+                "layoutOnCloseActions": []
+            }
+        ]
+    }
+}

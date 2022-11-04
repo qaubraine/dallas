@@ -1,0 +1,150 @@
+{
+    "_id": "6364c8140cc6341100000005",
+    "applicationId": "dallas",
+    "slug": "Page1",
+    "unpublishedPage": {
+        "name": "Page1",
+        "layouts": [
+            {
+                "_id": "6364c8140cc6341100000006",
+                "viewMode": false,
+                "dsl": {
+                    "widgetName": "MainContainer",
+                    "backgroundColor": "none",
+                    "rightColumn": 1224,
+                    "snapColumns": 64,
+                    "widgetId": "0",
+                    "topRow": 0,
+                    "bottomRow": 900,
+                    "parentRowSpace": 1,
+                    "type": "CANVAS_WIDGET",
+                    "detachFromLayout": true,
+                    "minHeight": 910,
+                    "dynamicBindingPathList": [],
+                    "parentColumnSpace": 1,
+                    "leftColumn": 0,
+                    "children": [
+                        {
+                            "isVisible": true,
+                            "widgetName": "Audio1",
+                            "url": "https://assets.appsmith.com/widgets/birds_chirping.mp3",
+                            "autoPlay": false,
+                            "version": 1,
+                            "animateLoading": true,
+                            "classStyle": "",
+                            "type": "AUDIO_WIDGET",
+                            "hideCard": false,
+                            "displayName": "Audio",
+                            "key": "6jt5qg0xxf",
+                            "iconSVG": "/static/media/icon.cb54df7a.svg",
+                            "widgetId": "rjkpi9ur8x",
+                            "renderMode": "CANVAS",
+                            "isLoading": false,
+                            "parentColumnSpace": 15.71875,
+                            "parentRowSpace": 10,
+                            "leftColumn": 8,
+                            "rightColumn": 36,
+                            "topRow": 4,
+                            "bottomRow": 8,
+                            "parentId": "0"
+                        }
+                    ],
+                    "snapRows": 90,
+                    "containerStyle": "none",
+                    "canExtend": true,
+                    "version": 57
+                },
+                "widgetNames": [
+                    "MainContainer",
+                    "Audio1"
+                ],
+                "deleted": false,
+                "policies": [],
+                "layoutOnLoadActions": [],
+                "layoutOnCloseActions": []
+            }
+        ]
+    },
+    "createdAt": "2022-11-04T08:06:44.502Z",
+    "updatedAt": "2022-11-04T08:06:44.503Z",
+    "deleted": false,
+    "policies": [
+        {
+            "permission": "read:pages",
+            "groups": [],
+            "users": [
+                null
+            ]
+        },
+        {
+            "permission": "manage:pages",
+            "groups": [],
+            "users": [
+                null
+            ]
+        }
+    ],
+    "publishedPages": {
+        "name": "Page1",
+        "layouts": [
+            {
+                "_id": "6364c8140cc6341100000006",
+                "viewMode": false,
+                "dsl": {
+                    "widgetName": "MainContainer",
+                    "backgroundColor": "none",
+                    "rightColumn": 1224,
+                    "snapColumns": 64,
+                    "widgetId": "0",
+                    "topRow": 0,
+                    "bottomRow": 900,
+                    "parentRowSpace": 1,
+                    "type": "CANVAS_WIDGET",
+                    "detachFromLayout": true,
+                    "minHeight": 910,
+                    "dynamicBindingPathList": [],
+                    "parentColumnSpace": 1,
+                    "leftColumn": 0,
+                    "children": [
+                        {
+                            "isVisible": true,
+                            "widgetName": "Audio1",
+                            "url": "https://assets.appsmith.com/widgets/birds_chirping.mp3",
+                            "autoPlay": false,
+                            "version": 1,
+                            "animateLoading": true,
+                            "classStyle": "",
+                            "type": "AUDIO_WIDGET",
+                            "hideCard": false,
+                            "displayName": "Audio",
+                            "key": "6jt5qg0xxf",
+                            "iconSVG": "/static/media/icon.cb54df7a.svg",
+                            "widgetId": "rjkpi9ur8x",
+                            "renderMode": "CANVAS",
+                            "isLoading": false,
+                            "parentColumnSpace": 15.71875,
+                            "parentRowSpace": 10,
+                            "leftColumn": 8,
+                            "rightColumn": 36,
+                            "topRow": 4,
+                            "bottomRow": 8,
+                            "parentId": "0"
+                        }
+                    ],
+                    "snapRows": 90,
+                    "containerStyle": "none",
+                    "canExtend": true,
+                    "version": 57
+                },
+                "widgetNames": [
+                    "MainContainer",
+                    "Audio1"
+                ],
+                "deleted": false,
+                "policies": [],
+                "layoutOnLoadActions": [],
+                "layoutOnCloseActions": []
+            }
+        ]
+    }
+}
