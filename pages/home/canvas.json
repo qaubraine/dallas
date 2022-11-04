@@ -115,7 +115,9 @@
                     "DocumentViewer1"
                 ],
                 "deleted": false,
-                "policies": []
+                "policies": [],
+                "layoutOnLoadActions": [],
+                "layoutOnCloseActions": []
             }
         ]
     },
@@ -247,7 +249,9 @@
                     "DocumentViewer1"
                 ],
                 "deleted": false,
-                "policies": []
+                "policies": [],
+                "layoutOnLoadActions": [],
+                "layoutOnCloseActions": []
             }
         ]
     }
